@@ -1,0 +1,46 @@
+body {
+    font-family: 'Raleway', sans-serif;
+}
+
+.one {
+background-color: aqua;
+}
+
+.two {
+background-color: yellow;
+}
+
+.text:hover,
+.text:focus{
+font-style: 'Raleway';
+color: blue;
+}
+
+.textt:hover,
+.textt:focus{
+font-style: 'Raleway';
+color: rgb(97, 97, 0);
+width: 30px;
+height: 30px;
+}
+
+.text {
+font-style: 'Raleway';
+color: yellow;
+text-decoration: none;
+width: 145px;
+height: 31px;
+}
+
+.textt {
+    font-style: 'Raleway';
+    color: aqua;
+    text-decoration: none;
+    width: 145px;
+    height: 31px;
+    }
+
+.imgl {
+    margin-left: 1000090px;
+    height: 140px;
+}
