@@ -44,3 +44,24 @@ height: 31px;
     margin-left: 1000090px;
     height: 140px;
 }
+
+.tiktok {
+    margin: 0px;
+    padding: 4px;
+}
+
+.tiktok li {
+    margin-top: 25px;
+    display: inline;
+    margin-right: 50px;
+    padding: 3px;
+}
+
+.tiktok li:hover {
+width: 20px;
+height: 40px;
+color: blue;
+background-color: yellow;
+text-decoration: none;
+box-shadow: 700px;
+}
