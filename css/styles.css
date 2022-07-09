@@ -2,47 +2,39 @@ body {
     font-family: 'Raleway', sans-serif;
 }
 
-.one {
-background-color: aqua;
-}
-
-.two {
-background-color: yellow;
-}
-
-.text:hover,
-.text:focus{
-font-style: 'Raleway';
-color: blue;
-}
-
-.textt:hover,
-.textt:focus{
-font-style: 'Raleway';
-color: rgb(97, 97, 0);
-width: 30px;
-height: 30px;
-}
-
-.text {
-font-style: 'Raleway';
-color: yellow;
-text-decoration: none;
-width: 145px;
-height: 31px;
-}
-
-.textt {
-    font-style: 'Raleway';
-    color: aqua;
+.link {
     text-decoration: none;
-    width: 145px;
-    height: 31px;
-    }
+    color: #212121;
+}
 
-.imgl {
-    margin-left: 1000090px;
-    height: 140px;
+.link:hover,
+.link:focus {
+color: #2196F3;
+}
+
+.ul li {
+    margin-top: 25px;
+    display: inline;
+    margin-right: 50px;
+    padding: 15px;
+    font-size: 20px;
+    background-color: #212121;
+    color: #dfdbdb;
+}
+
+.nav:hover,
+.nav:focus {
+    color: #2196F3;
+}
+
+.nav {
+    color: #dfdbdb;
+    text-decoration: none;
+}
+
+li {
+ list-style: none;
+
 }
 
 .tiktok {
@@ -54,14 +46,10 @@ height: 31px;
     margin-top: 25px;
     display: inline;
     margin-right: 50px;
-    padding: 3px;
+    padding: 15px;
+    font-size: 40px;
 }
 
-.tiktok li:hover {
-width: 20px;
-height: 40px;
-color: blue;
-background-color: yellow;
-text-decoration: none;
-box-shadow: 700px;
+.zdr {
+    font-size: 100px;
 }
