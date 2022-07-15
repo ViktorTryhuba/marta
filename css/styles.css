@@ -53,3 +53,16 @@ li {
 .zdr {
     font-size: 100px;
 }
+
+.size {
+    font-size: 50px;
+    margin-right: 10px;
+}
+
+.yaloh {
+    display: flex;
+}
+
+.justdiv {
+    margin-right: 500px;
+}
